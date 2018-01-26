@@ -1,7 +1,7 @@
 # FREE MAGENTO 2 FACEBOOK LIVE CHAT EXTENSION
 
 
-The integration of Facebook Messenger into your store can make the communication in business enhanced remarkably. Using Magento 2 Facebook Live Chat Extension, you can easily keep in touch with various of customers at a time. The chatbox of this extension will help you send and receive messages from users instantly. Let's see outstanding advantages of this extension.
+The integration of Facebook Messenger into your store can make the communication in business enhanced remarkably. Using [Magento 2 Facebook Live Chat Extension](https://landofcoder.com/free-magento-2-facebook-live-chat-extension.html/), you can easily keep in touch with various of customers at a time. The chatbox of this extension will help you send and receive messages from users instantly. Let's see outstanding advantages of this extension.
 
 - Unlimited History Chat
 - One step log in with Facebook, not setup requires
